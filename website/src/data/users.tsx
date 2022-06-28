@@ -1852,6 +1852,14 @@ const Users: User[] = [
     tags: ['opensource', 'product', 'large'],
   },
   {
+    title: 'Sapling.ai',
+    description: 'Language model integrations for B2B applications.',
+    preview: require('./showcase/sapling.png'),
+    website: 'https://sapling.ai/docs',
+    source: 'https://github.com/saplingai/sapling-samples',
+    tags: ['product'],
+  },
+  {
     title: 'Sapphire',
     description: 'A next-gen object-oriented Discord.js bot framework.',
     preview: require('./showcase/sapphire.png'),
